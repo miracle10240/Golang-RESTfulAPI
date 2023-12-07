@@ -118,15 +118,13 @@ go run gotham -seed
   
 ## Author
 
-> Tolga Özen
+> Robert Brown
 
 > codemaster1024@hotmail.com
 
 ## License
 
-MIT License
-
-Copyright (c) 2021 Tolga Özen
+Copyright (c) 2021 Robert Brown
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated
 documentation files (the "Software"), to deal in the Software without restriction, including without limitation the
