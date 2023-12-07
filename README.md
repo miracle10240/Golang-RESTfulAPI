@@ -120,7 +120,7 @@ go run gotham -seed
 
 > Tolga Özen
 
-> mtolgaozen@gmail.com
+> codemaster1024@hotmail.com
 
 ## License
 
